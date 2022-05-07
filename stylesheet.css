@@ -20,18 +20,20 @@
 
 
 .container_central_left {
-  padding-bottom: 800px;
+  padding-bottom: 10vh;
   background-color: #003459;
+  height:100vh;
 }
 
 .container_central_right {
-  padding-bottom: 800px;
+  padding-bottom: 10vh;
   background-color: rgb(255, 255, 255);
+  height:100vh;
 }
 
 .container_central_central {
   position: relative;
-  top: -700px;
+  top: -88vh;
   margin-bottom: -635px;
   left: 230px;
   width: 65% ;
@@ -127,6 +129,11 @@ p {
 .container_caroussel{
   padding-left: 10%;
   padding-right: 10%;
+}
+
+.container_contefences{
+  padding-left: 3%;
+  padding-right: 3%;
 }
 
 .text_content{
