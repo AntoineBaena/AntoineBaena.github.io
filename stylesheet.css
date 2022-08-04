@@ -191,13 +191,20 @@ p {
 
 }
 
-@media only screen and (min-width: 1400px) {
+@media only screen and (min-width: 1600px) {
   .container_central_central {
     margin-bottom: -800px;
     margin-left: 10vw;
     margin-right:10vw;
-  }
-	
+}
+}
+
+@media only screen and (min-width: 1400px) {
+  .container_central_central {
+    margin-bottom: -700px;
+    margin-left: 10vw;
+    margin-right:10vw;
+}
 }
 
 @media only screen and (max-width: 1200px) {
