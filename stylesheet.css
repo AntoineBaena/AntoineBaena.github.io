@@ -203,7 +203,7 @@ p {
 @media only screen and (min-width: 1400px) {
   .container_central_central {
     top: -650px;
-    margin-bottom: -600px;
+    margin-bottom: -540px;
     margin-left: 20vw;
     margin-right:20vw;
 }
